@@ -1,17 +1,13 @@
 .flashy {
   color: red;
   font-style: italic;
-  font-size: 40px
-
+  font-size: 40px;
 }
 h1 {
-  font-size: 80px
+  font-size: 80px;
 }
 a {
-  font-size: 30px
-}
-img {
-  height: 240px
+  font-size: 30px;
 }
 ul {
   font-size: 30px;
@@ -24,4 +20,7 @@ ul {
   font-size: 30px;
   font-family: serif;
   color: purple;
+}
+.bold {
+  font-weight: bold;
 }
