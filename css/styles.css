@@ -34,7 +34,8 @@ ul {
 }
 .columns {
   float: left;
-  width: 300px
+  width: 300px;
+  background-color: pink;
 }
 .clear {
   clear: both
