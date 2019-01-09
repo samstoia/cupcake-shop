@@ -2,11 +2,24 @@
   font-size: 40px;
   font-family: cursive;
   color: pink;
+  width: 1000px;
+  float: right;
+  border: 2px solid pink;
+  padding: 10px;
+  margin: 12px;
+  background-color: brown;
 }
 .regal {
   font-size: 40px;
   font-family: fantasy;
+  width: 1000px;
   color: brown;
+  border: 2px solid brown;
+  padding: 10px;
+  margin: 12px;
+  background-color: pink;
+  margin-bottom: 50px;
+
 }
 .flashy {
   color: red;

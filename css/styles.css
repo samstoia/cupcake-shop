@@ -16,11 +16,26 @@ ul {
 }
 .best {
   width: 40%;
-  float: right;
+  float: left;
   font-size: 30px;
   font-family: serif;
   color: purple;
+  border: 5px solid purple;
+  padding: 10px;
+  margin-right: 50px;
+  clear: both;
+
 }
 .bold {
   font-weight: bold;
+}
+.menusize {
+  height: 240px;
+}
+.columns {
+  float: left;
+  width: 300px
+}
+.clear {
+  clear: both
 }
