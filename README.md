@@ -1,18 +1,18 @@
-#Seattle's Best Cupcakes Webpage
+#_Seattle's Best Cupcakes Webpage_
 
-##Contributors
+##_Contributors_
 Denny Le, Sam Stoia
 
-##Description
+##_Description_
 This webpage is for customers to learn information about Seattle's Best Cupcakes.
 
-##Technologies Used
+##_Technologies Used_
 HTML, CSS, Atom, Git, GitHub
 
-##Setup
+##_Setup_
 Clone this repository.
 
 Open index.html in web browser.
 
-##Copyright (c) 2019
+##_Copyright (c) 2019_
 Copyright Holder All Rights Reserved.
